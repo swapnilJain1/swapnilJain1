@@ -3,11 +3,11 @@
 <br/>
 <img align="right" width="400" alt="coding-image" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j9cmt1uqm75yi1wt38kwrzzsjk2ipdbm9j5bbeaz&rid=giphy.gif&ct=g">
 <br/><br/><br/><br/>
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning  <b>NodeJS</b>
 <br/>
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about <b>React, JavaScript</b>
 <br/>
-- 📫 How to reach me **15.swapnilj@gmail.com**
+- 📫 How to reach me <b>15.swapnilj@gmail.com</b>
 
 <br/><br/><br/><br/><br/><br/>
 
