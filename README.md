@@ -5,9 +5,9 @@
 <br/><br/><br/><br/>
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **React, JavaScript**
+&nbsp;  - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **15.swapnilj@gmail.com**
+&nbsp;&nbsp; - 📫 How to reach me **15.swapnilj@gmail.com**
 
 <br/><br/><br/><br/><br/><br/>
 
