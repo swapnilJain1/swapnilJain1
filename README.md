@@ -4,7 +4,9 @@
 <img align="right" width="400" alt="coding-image" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j9cmt1uqm75yi1wt38kwrzzsjk2ipdbm9j5bbeaz&rid=giphy.gif&ct=g">
 <br/><br/><br/><br/>
 - 🌱 I’m currently learning **NodeJS**
+<br/>
 - 💬 Ask me about **React, JavaScript**
+<br/>
 - 📫 How to reach me **15.swapnilj@gmail.com**
 
 <br/><br/><br/><br/><br/><br/>
