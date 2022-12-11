@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-stack developer </h3>
 <br/>
 <img align="right" width="400" alt="coding-image" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j9cmt1uqm75yi1wt38kwrzzsjk2ipdbm9j5bbeaz&rid=giphy.gif&ct=g">
 <br/><br/><br/><br/>
