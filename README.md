@@ -1,3 +1,4 @@
+![MasterHead](https://www.gipl.in/Content/Upload/201728160309slider.gif)
 <h1 align="center">Hi 👋, I'm Swapnil Jain</h1>
 <h3 align="center">A passionate Full-stack developer </h3>
 <br/>
