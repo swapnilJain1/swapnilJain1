@@ -24,7 +24,7 @@
 <img align="right" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j9cmt1uqm75yi1wt38kwrzzsjk2ipdbm9j5bbeaz&rid=giphy.gif&ct=g" alt="coding-image">
 
 - 💼 I am a Software Engineer with **6 years of experience** specializing in high-performance web applications.
-- 🔭 I’m currently working as a Software Engineer at **GlobalLogic India**.
+- 🔭 I’m currently working as a Software Engineer at **Persistent**.
 - 🛠️ My core expertise lies in **React, TypeScript, Node.js, and Express.js**.
 - 🌱 I’m currently exploring deeper into **Azure** and **NextJS**.
 - 💬 Ask me about **migrating to SPAs, state management with Redux, and component libraries**.
